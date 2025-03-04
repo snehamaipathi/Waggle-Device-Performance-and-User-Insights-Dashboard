@@ -33,7 +33,9 @@ A slicer with the search box feature enabled
 
 ----------------------------------------------------------------------------
 
-Bookmark Features: The report must feature two bookmark functionalities:
+Bookmark Features: 
+
+The report must feature two bookmark functionalities:
 
 One that allows users to swap a visual with a different one dynamically
 
